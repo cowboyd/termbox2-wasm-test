@@ -1,0 +1,6 @@
+[submodule "wasi-libc"]
+	path = wasi-libc
+	url = https://github.com/WebAssembly/wasi-libc.git
+[submodule "termbox2"]
+	path = termbox2
+	url = https://github.com/termbox/termbox2.git
